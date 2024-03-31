@@ -1,0 +1,68 @@
+.navbar-light .navbar-nav .nav-link{
+    color: aliceblue;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    color: rgb(106, 106, 106);
+}
+.navbar-brand>img{
+    width: 35px;
+}
+.navbar-toggler{
+    background-color: aliceblue;
+}
+
+.card{
+    margin-top:  30px;
+
+}
+.nav-panel{
+    margin-top: 30px;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
+.nav-panel>p{
+    color: rgb(0, 0, 0);
+    padding: 8px;
+    padding-bottom: 0px;
+}
+
+.nav-panel >a{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.footer{
+    background-color: #212529;
+ 
+}
+.footer-text{
+    display: flex;
+    justify-content: center;
+}
+.footer-text >a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 20px;
+    color:aliceblue;
+    font-family: BRUSH SCRIPT MT;
+}
+.footer-text a:hover{
+    color: #3f3f3f;
+}
+.mersf{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.insta{
+    margin-top: 3px;
+    width: 100px;
+}
+.navv{
+    display: flex;
+    align-items: center;
+}
+.navv >a{
+    font-size: 19px;
+}
